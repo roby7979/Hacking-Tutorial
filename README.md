@@ -40,3 +40,6 @@ https://youtu.be/tfmIJITs_0o
 
 13. Active Directory 02 - Come funziona
 https://youtu.be/6WLLraf5ow0
+
+14. Il percorso corretto delle certificazioni Hacking per diventare Pentester
+https://youtu.be/praC_XLauoo
