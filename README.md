@@ -33,6 +33,8 @@ https://youtu.be/LCCG9Yg2mJE
 11. Tutorial VIM - Primi passi e comandi
 https://youtu.be/lzDCjXcFe98
 
+12. Pivoting con Metasploit
+https://youtu.be/Zl1Va19SgFo
 12. Active Directory 01 - Primi passi
 https://youtu.be/tfmIJITs_0o
 
